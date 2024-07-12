@@ -68,7 +68,7 @@ To run the application locally, follow these steps:
 **Input:** Solve for x: 2x + 5 = 15  
 
 ## Screenshots
-![Asking a question](images/ss.jpeg)
+![Asking a question](SS.jpeg)
 
 ## Contact
 
