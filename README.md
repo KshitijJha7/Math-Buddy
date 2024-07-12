@@ -1,8 +1,8 @@
-# Math Problem Solver App
+# Math Buddy
 
 ## Overview
 
-The Math Problem Solver App is a powerful web application designed to solve a wide range of math problems. From basic arithmetic to complex calculus, our app provides accurate solutions quickly and efficiently.
+Math Buddy is a powerful web application designed to solve a wide range of math problems. From basic arithmetic to complex calculus, our app provides accurate solutions quickly and efficiently.
 
 ## Features
 
