@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MathJax Example</title>
+    <!-- MathJax CDN scripts -->
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <h1>MathJax Example</h1>
+
+    <p>Here is an example of a mathematical expression rendered using MathJax:</p>
+
+    <!-- Example mathematical expression -->
+    <div id="mathjax-content">
+        $$ \int x^2 \, dx = \frac{x^3}{3} + C $$
+    </div>
+
+    <!-- Example of dynamically updating content -->
+    <button onclick="updateMathjax()">Update MathJax Content</button>
+
+    <script>
+        // Function to update MathJax content
+        function updateMathjax() {
+            const newExpression = "\\sqrt{x} = y"; // Example new math expression
+            document.getElementById("mathjax-content").innerHTML = "$$" + newExpression + "$$";
+            if (window.MathJax) {
+                window.MathJax.typeset(); // Trigger MathJax typesetting after content update
+            }
+        }
+    </script>
+</body>
+</html>

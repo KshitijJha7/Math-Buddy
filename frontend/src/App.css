@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rounded-input {
+  border-radius: 20px; /* Adjust as needed */
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-right: 10px; /* Adjust spacing */
+  width: 800px; /* Adjust width */
+}
+
+.rounded-button {
+  border-radius: 20px; /* Adjust as needed */
+  padding: 10px 20px;
+  background-color: #5b912a; /* Adjust button color */
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.logoImage{
+  max-width: 100%; /* Set the maximum width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+ .logo{
+  max-width: 400px; /* Example: Limit container width */
+    margin: 0 auto; /* Center the container */
+ }
