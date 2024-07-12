@@ -1,4 +1,4 @@
-# 📐 Math Buddy
+# 🧮 Math Buddy
 
 ## Overview
 
