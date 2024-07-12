@@ -1,4 +1,4 @@
-#e = ∑∞ⁿ⁼⁰ ¹ₙ Math Buddy
+# e = ∑∞ⁿ⁼⁰ ¹ₙ Math Buddy
 
 ## Overview
 
