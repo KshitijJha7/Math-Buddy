@@ -75,5 +75,5 @@ Will Include screenshots of the application to give users a visual preview.
 
 For questions or feedback, please reach out to:
 
-- **Email:** [your-email@example.com](mailto:kshitij.jha.kj@gmail.com)
-- **GitHub:** [YourGitHubUsername](https://github.com/KshitijJha7)
+- **Email:** [kshitij.jha.kj@gmail.com](mailto:kshitij.jha.kj@gmail.com)
+- **GitHub:** [KshitijJha7](https://github.com/KshitijJha7)
